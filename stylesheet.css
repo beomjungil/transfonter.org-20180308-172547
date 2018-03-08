@@ -2,8 +2,8 @@
 
 @font-face {
   font-family: 'Nanum Myeongjo';
-  src: url('subset-NanumMyeongjoOTFExtraBold00.eot');
-  src: local('Nanum Myeongjo'), local('NanumMyeongjoOTFExtraBold00'), url('subset-NanumMyeongjoOTFExtraBold00.eot?#iefix') format('embedded-opentype'), url('subset-NanumMyeongjoOTFExtraBold00.woff2') format('woff2'), url('subset-NanumMyeongjoOTFExtraBold00.woff') format('woff'), url('subset-NanumMyeongjoOTFExtraBold00.ttf') format('truetype'), url('subset-NanumMyeongjoOTFExtraBold00.svg#NanumMyeongjoOTFExtraBold00') format('svg');
+  src: url('https://cdn.rawgit.com/kattergil/transfonter.org-20180308-172547/fc592fc2/subset-NanumMyeongjoOTFExtraBold00.eot');
+  src: local('Nanum Myeongjo'), local('Nanum Myeongjo'), url('https://cdn.rawgit.com/kattergil/transfonter.org-20180308-172547/fc592fc2/subset-NanumMyeongjoOTFExtraBold00.eot?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/kattergil/transfonter.org-20180308-172547/fc592fc2/subset-NanumMyeongjoOTFExtraBold00.woff2') format('woff2'), url('https://cdn.rawgit.com/kattergil/transfonter.org-20180308-172547/fc592fc2/subset-NanumMyeongjoOTFExtraBold00.woff') format('woff'), url('https://cdn.rawgit.com/kattergil/transfonter.org-20180308-172547/fc592fc2/subset-NanumMyeongjoOTFExtraBold00.ttf') format('truetype'), url('https://cdn.rawgit.com/kattergil/transfonter.org-20180308-172547/fc592fc2/subset-NanumMyeongjoOTFExtraBold00.svg#NanumMyeongjoOTFExtraBold00') format('svg');
   font-weight: 900;
   font-style: normal;
 }
